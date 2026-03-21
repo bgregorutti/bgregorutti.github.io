@@ -1,21 +1,20 @@
 title: "Baptiste Gregorutti"
 subtitle: "Research Engineer · Head of Data Science · AI & ML"
 description: "Portfolio of Baptiste Gregorutti — data scientist, research engineer, and team lead working at the intersection of academic research and applied AI."
-url: "https://baptiste-gregorutti.github.io"
+url: "https://bgregorutti.github.io"
 baseurl: ""
 
 author:
   name: "Baptiste Gregorutti"
   bio: "Head of Data Science at SCAI – Sorbonne Center for AI. Research engineer, educator, and team lead working across computer vision, NLP, and ML for science."
   location: "Paris, France"
-  email: "baptiste.gregorutti@gmail.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/baptiste-gregorutti-b3a27941"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/baptiste-gregorutti"
+      url: "https://github.com/bgregorutti"
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: "air"
