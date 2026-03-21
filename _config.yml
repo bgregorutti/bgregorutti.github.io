@@ -1,0 +1,66 @@
+title: "Baptiste Gregorutti"
+subtitle: "Research Engineer · Head of Data Science · AI & ML"
+description: "Portfolio of Baptiste Gregorutti — data scientist, research engineer, and team lead working at the intersection of academic research and applied AI."
+url: "https://baptiste-gregorutti.github.io"
+baseurl: ""
+
+author:
+  name: "Baptiste Gregorutti"
+  bio: "Head of Data Science at SCAI – Sorbonne Center for AI. Research engineer, educator, and team lead working across computer vision, NLP, and ML for science."
+  location: "Paris, France"
+  email: "baptiste.gregorutti@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/baptiste-gregorutti-b3a27941"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/baptiste-gregorutti"
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+navigation:
+  main:
+    - title: "Projects"
+      url: /projects/
+    - title: "Safety Line"
+      url: /safety-line/
+    - title: "LumenAI"
+      url: /lumenai/
+    - title: "Publications"
+      url: /publications/
+    - title: "About"
+      url: /about/
+
+timezone: Europe/Paris
+lang: en
