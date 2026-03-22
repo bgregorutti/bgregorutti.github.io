@@ -16,13 +16,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bgregorutti"
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 include:
   - _pages
