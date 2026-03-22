@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Baptiste Gregorutti"
+title: ""
 excerpt: "Research Engineer & Head of Data Science at SCAI – Sorbonne Center for AI"
 author_profile: true
 redirect_from:
@@ -12,17 +12,22 @@ I am a research engineer and **Head of Data Science** at [SCAI – Sorbonne Cent
 
 My work sits at the intersection of **applied machine learning** and **scientific research** — working with biologists, chemists, ecologists, art historians, and clinicians to translate real domain problems into tractable ML tasks.
 
-I am part of two France 2030-funded programs: **[Sorbonne.AI](https://sorbonne.ai)** and **PostGenAI@Paris**.
+I am part of two France 2030-funded programs: **[Sorbonne.AI](https://sorbonne.ai)** and **[PostGenAI@Paris](https://www.sorbonne-universite.fr/actualites/le-cluster-postgenaiparis-projet-porte-par-sorbonne-universite-obtient-35-millions)**.
 
 ---
 
-## Research Interests
+## Highlights
 
-Supervised and unsupervised machine learning applied to large-scale and complex data · Ensemble methods · Functional data analysis · Variable selection and importance measures · Signal processing · Dynamical system identification · Computer vision · NLP and large language models · Graph machine learning
+- 🎓 PhD in Statistics, Sorbonne Université (2014)
+- 🧑‍🔬 Research engineer & team lead since 2011
+- ✈️ 9 years in aviation ML — fuel optimisation, airport analytics
+- 🤖 SCAI: 4 active research projects, 6 funded grants
+- 🏫 230+ teaching hours · 300+ students (personal) | 400+ hours · 700+ students (team, 2023–2026)
+- 📄 5 research publications · 1 patent
 
 ---
 
-## Current Projects
+## Selected Projects
 
 | Project | Domain | Partners |
 |---|---|---|
@@ -32,17 +37,6 @@ Supervised and unsupervised machine learning applied to large-scale and complex 
 | [Sorbobot](/portfolio/sorbobot/) | NLP · Knowledge management | SUMMIT (Sorbonne) |
 
 → [View all projects](/portfolio/)
-
----
-
-## Selected Facts
-
-- 🎓 PhD in Statistics, Sorbonne Université (2014)
-- 🧑‍🔬 Research engineer & team lead since 2011
-- ✈️ 9 years in aviation ML — fuel optimisation, airport analytics
-- 🤖 SCAI: 4 active research projects, 6 funded grants
-- 🏫 230+ teaching hours · 300+ students (personal) | 400+ hours · 700+ students (team, 2023–2026)
-- 📄 5 research publications · 1 patent
 
 ---
 
