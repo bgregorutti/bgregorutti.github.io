@@ -5,18 +5,17 @@ title                    : "Baptiste Gregorutti"
 title_separator          : "-"
 name                     : &name "Baptiste Gregorutti"
 description              : &description "Research Engineer & Head of Data Science — AI, Machine Learning, Computer Vision, NLP"
-url                      : https://baptiste-gregorutti.github.io
+url                      : https://bgregorutti.github.io
 baseurl                  : ""
-repository               : "baptiste-gregorutti/baptiste-gregorutti.github.io"
+repository               : "baptiste-gregorutti/bgregorutti.github.io"
 
 # Author
 author:
   name             : "Baptiste Gregorutti"
-  avatar           : "/images/profile.png"   # replace with your photo
+  avatar           : "/images/profile.jpeg"
   bio              : "Head of Data Science at SCAI – Sorbonne Center for AI. Research engineer, educator, and team lead."
   location         : "Paris, France"
   employer         : "SCAI – Sorbonne Université"
-  email            : "baptiste.gregorutti@gmail.com"
   linkedin         : "baptiste-gregorutti-b3a27941"
   github           : "baptiste-gregorutti"   # replace with your actual GitHub username
 
@@ -34,13 +33,6 @@ comments:
 # SEO
 google-site-verification :
 bing-site-verification   :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-og_image                 :
 
 # Analytics
 analytics:
