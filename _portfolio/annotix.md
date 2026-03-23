@@ -20,18 +20,18 @@ collection: portfolio
 
 ## My Role
 
-Lead the ML and data science work; supervise a Master's intern on the annotation pipeline.
+Lead the ML and data science work.
 
 **Responsibilities:** pipeline design, graph ML method selection, cheminformatics component supervision, coordination with chemists on domain requirements.
 
 ## Technical Approach
 
-1. **Spectral similarity** — pairwise cosine and modified cosine similarity between MS/MS spectra (`matchms`)
-2. **Molecular network** — graph where nodes are spectra and edges reflect spectral similarity above a threshold (`NetworkX`)
+1. **Spectral similarity** — pairwise cosine and modified cosine similarity between MS/MS spectra
+2. **Molecular network** — graph where nodes are spectra and edges reflect spectral similarity above a threshold
 3. **Label propagation** — propagating known annotations to unknown compounds via graph-based semi-supervised learning
 4. **Graph ML** — GNN-based (Graph Convolutional Networks) prediction of molecular classes from spectral embeddings
 
-**Stack**: Python · matchms · NetworkX · PyTorch Geometric · RDKit · pandas
+**Stack**: Python · Matchms · NetworkX · RDKit
 
 ## Scientific Context
 
@@ -39,4 +39,4 @@ Molecular networking (popularised by [GNPS](https://gnps.ucsd.edu)) groups relat
 
 ## Status
 
-🟡 **In progress** — spectral similarity and network construction operational; annotation propagation and GNN components under active development.
+🟡 **In progress**

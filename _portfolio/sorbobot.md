@@ -9,7 +9,7 @@ collection: portfolio
 
 ## Overview
 
-**Sorbobot** helps researchers, students, and partners **discover expertise within Sorbonne University**. Given a research topic or question, the system surfaces relevant researchers, labs, and publications across the university's broad disciplinary landscape.
+**Sorbobot** helps researchers, managers, and partners **discover expertise within Sorbonne University**. Given a research topic or question, the system surfaces relevant researchers, labs, and publications across the university's broad disciplinary landscape.
 
 ## Partners
 
@@ -29,7 +29,7 @@ Contributed NLP and LLM architecture expertise (RAG pipeline design), mentored j
 - **RAG pipeline**: user queries matched against the index; retrieved context passed to an LLM for synthesis
 - **Entity linking**: connecting researcher, lab, and topic mentions across heterogeneous sources
 
-**Stack**: Python · LangChain / LlamaIndex · OpenAI / Mistral APIs · FAISS · PostgreSQL
+**Stack**: Python · LangChain · LLM APIs · PostgreSQL
 
 ## Status
 

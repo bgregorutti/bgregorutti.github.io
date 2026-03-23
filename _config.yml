@@ -13,11 +13,11 @@ repository               : "baptiste-gregorutti/bgregorutti.github.io"
 author:
   name             : "Baptiste Gregorutti"
   avatar           : "/profile.jpeg"
-  bio              : "Head of Data Science at SCAI – Sorbonne Center for AI. Research engineer, educator, and team lead."
+  bio              : "Head of Data Science at SCAI – Sorbonne Cluster for AI. Research engineer, educator, and team lead."
   location         : "Paris, France"
   employer         : "SCAI – Sorbonne Université"
   linkedin         : "baptiste-gregorutti-b3a27941"
-  github           : "baptiste-gregorutti"   # replace with your actual GitHub username
+  github           : "baptiste-gregorutti"
 
 # Site Settings
 teaser                   :

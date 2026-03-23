@@ -31,16 +31,9 @@ Funding: **Schmidt Family Foundation**
 
 I helped design and build the project from its early stages and lead the data science component, including a team of 2 research engineers.
 
-**Responsibilities:** project design, scientific scope, CV pipeline architecture, coordination with art history and digital humanities partners.
+**Responsibilities:** project design, scientific scope, CV pipeline architecture, coordination with art history partners.
 
-## Technical Approach
-
-- **Image preprocessing**: standardisation of scans from heterogeneous sources
-- **Object detection & segmentation**: identifying motifs, figures, compositional elements
-- **Similarity search**: finding visual patterns across the corpus (FAISS)
-- **Metadata enrichment**: linking image analysis to structured art-historical metadata
-
-**Stack**: Python · PyTorch · Torchvision · FAISS · OpenCV
+**Stack**: Python · PyTorch · Torchvision
 
 ## Status
 
