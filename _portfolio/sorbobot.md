@@ -2,6 +2,7 @@
 title: "Sorbobot"
 excerpt: "An LLM-based system for mapping and surfacing expertise across Sorbonne University using retrieval-augmented generation."
 order: 4
+company: "SCAI"
 domain: "NLP · Knowledge Management"
 status: "Completed (SCAI phase)"
 collection: portfolio

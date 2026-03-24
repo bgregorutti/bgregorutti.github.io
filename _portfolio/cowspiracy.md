@@ -2,6 +2,7 @@
 title: "Cowspiracy"
 excerpt: "Computer vision for large-scale animal detection to monitor soil erosion and land degradation in Senegal and the Gobi Desert."
 order: 2
+company: "SCAI"
 domain: "Ecology"
 status: "In progress"
 collection: portfolio

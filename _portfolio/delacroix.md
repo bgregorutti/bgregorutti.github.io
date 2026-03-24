@@ -2,6 +2,7 @@
 title: "Digital Delacroix"
 excerpt: "Computer vision applied to art history — digitising and analysing the complete works of Eugène Delacroix."
 order: 1
+company: "SCAI"
 domain: "Art History · Digital Humanities"
 status: "In progress"
 header:

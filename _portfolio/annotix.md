@@ -2,6 +2,7 @@
 title: "Annotix"
 excerpt: "Graph machine learning and molecular networking to annotate unknown molecules from LC-MS/MS spectra in metabolomics."
 order: 3
+company: "SCAI"
 domain: "Analytical Chemistry · Cheminformatics"
 status: "In progress"
 collection: portfolio

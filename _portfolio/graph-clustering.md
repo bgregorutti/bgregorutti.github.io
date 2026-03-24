@@ -2,6 +2,7 @@
 title: "Real-Time Graph Clustering for Network Intrusion Detection"
 excerpt: "Online graph clustering for detecting suspicious activities in computing systems — applied to the DARPA OpTC dataset, funded by the DGA Cyberdefence Factory."
 order: 6
+company: "LumenAI"
 domain: "Cybersecurity · Graph Machine Learning"
 status: "Completed — published"
 collection: portfolio

@@ -1,14 +1,16 @@
 ---
 permalink: /
 title: ""
-excerpt: "Research Engineer & Head of Data Science at SCAI – Sorbonne Cluster for AI"
+excerpt: "Research Engineer & Head of Data Science"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a research engineer and **Head of Data Science** at [SCAI – Sorbonne Cluster for Artificial Intelligence](https://scai.sorbonne-universite.fr), where I lead a team of 4 data scientists building AI and ML solutions for researchers across Sorbonne University's three faculties and its partners.
+I am a **Head of Data Science** at [comming soon].
+
+Before, I was a research engineer and **Head of Data Science** at [SCAI – Sorbonne Cluster for Artificial Intelligence](https://scai.sorbonne-universite.fr), where I led a team of 4 data scientists building AI and ML solutions for researchers across Sorbonne University's three faculties and its partners.
 
 My work sits at the intersection of **applied machine learning** and **scientific research** — working with biologists, chemists, ecologists, art historians, and clinicians to translate real domain problems into tractable ML tasks.
 

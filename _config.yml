@@ -4,7 +4,7 @@ locale                   : "en-US"
 title                    : "Baptiste Gregorutti"
 title_separator          : "-"
 name                     : &name "Baptiste Gregorutti"
-description              : &description "Research Engineer & Head of Data Science — AI, Machine Learning, Computer Vision, NLP"
+description              : &description "Research Engineer & Head of Data Science — AI, Machine Learning, Computer Vision, LLM"
 url                      : https://bgregorutti.github.io
 baseurl                  : ""
 repository               : "baptiste-gregorutti/bgregorutti.github.io"
@@ -13,11 +13,11 @@ repository               : "baptiste-gregorutti/bgregorutti.github.io"
 author:
   name             : "Baptiste Gregorutti"
   avatar           : "/profile.jpeg"
-  bio              : "Head of Data Science at SCAI – Sorbonne Cluster for AI. Research engineer, educator, and team lead."
-  location         : "Paris, France"
-  employer         : "SCAI – Sorbonne Université"
+  bio              : "Head of Data Science. Research engineer, educator, and team lead. Machine Learning, Computer Vision, LLM"
+  location         : "Paris & Cholet, France"
+  employer         : "Coming soon"
   linkedin         : "baptiste-gregorutti-b3a27941"
-  github           : "baptiste-gregorutti"
+  github           : "bgregorutti"
 
 # Site Settings
 teaser                   :

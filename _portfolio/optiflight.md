@@ -2,6 +2,7 @@
 title: "OptiFlight"
 excerpt: "ML and optimisation algorithms for aircraft fuel consumption reduction across all flight phases — now deployed on thousands of aircraft worldwide."
 order: 0
+company: "Safety Line"
 domain: "Aviation · Optimisation · Machine Learning"
 status: "Deployed"
 collection: portfolio
