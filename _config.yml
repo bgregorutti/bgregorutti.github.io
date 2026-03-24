@@ -7,7 +7,7 @@ name                     : &name "Baptiste Gregorutti"
 description              : &description "Research Engineer & Head of Data Science — AI, Machine Learning, Computer Vision, LLM"
 url                      : https://bgregorutti.github.io
 baseurl                  : ""
-repository               : "baptiste-gregorutti/bgregorutti.github.io"
+repository               : "bgregorutti/bgregorutti.github.io"
 
 # Author
 author:

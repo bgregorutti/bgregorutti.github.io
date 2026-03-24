@@ -1,11 +1,11 @@
 main:
-  - title: "Projects"
+  - title: "Portfolio"
     url: /portfolio/
-  - title: "Training"
+  - title: "Teaching"
     url: /teaching/
   - title: "Publications"
     url: /publications/
-  - title: "Open Source"
+  - title: "Open Source projects"
     url: /open-source/
   - title: "CV"
     url: /cv/

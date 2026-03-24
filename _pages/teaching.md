@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching & Education"
 permalink: /teaching/
 author_profile: true
 ---

@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Paris, France"
 ---
 
-A flagship course developed for students in humanities, medicine, and other non-quantitative fields. One of the most requested courses in the SCAI Education portfolio.
+A flagship course developed for students in humanities, medicine, and other non-quantitative fields. One of the most requested courses in the [Sorbonne.AI](https://sorbonne.ai) educational program.
 
 ## Format
 
@@ -21,15 +21,15 @@ A flagship course developed for students in humanities, medicine, and other non-
 - The ML pipeline: training, validation, inference
 - Generative AI: how it works, what it can and cannot do
 - Running and interpreting ML models without writing code
-- Practical: pandas, matplotlib, scikit-learn
+- Practical: pandas, matplotlib, scikit-learn or no-code workshop
 
 ## Audiences
 
 - Letters, arts and humanities students
 - Medicine and health sciences students
 - Innovation management and engineering
-- Continuing education professionals (including Sorbonne Abu Dhabi)
+- University lecturers and researchers
 
 ## Reach
 
-Delivered repeatedly 2023–2026 as part of the SCAI Education platform. Also delivered in **2 programs at Sorbonne Abu Dhabi** (~10 students each, continuing education format).
+Delivered repeatedly 2023–2026 as part of the SCAI Education platform. 

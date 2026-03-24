@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "Research Engineer & Head of Data Science"
 author_profile: true
 redirect_from:
@@ -14,7 +13,7 @@ Before, I was a research engineer and **Head of Data Science** at [SCAI – Sorb
 
 My work sits at the intersection of **applied machine learning** and **scientific research** — working with biologists, chemists, ecologists, art historians, and clinicians to translate real domain problems into tractable ML tasks.
 
-The projects we develop with my team are part of two France 2030-funded programs: [Sorbonne.AI](https://sorbonne.ai) and [PostGenAI@Paris](https://www.sorbonne-universite.fr/actualites/le-cluster-postgenaiparis-projet-porte-par-sorbonne-universite-obtient-35-millions).
+The projects we develop with my team are part of two France 2030-funded programs: [Sorbonne.AI](https://sorbonne.ai) and [PostGenAI@Paris](https://sorbonne.ai/projects/postgenai-paris).
 
 ---
 

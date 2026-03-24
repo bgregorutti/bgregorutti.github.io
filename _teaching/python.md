@@ -1,5 +1,5 @@
 ---
-title: "Python & Data Science — Master's level (ISUP)"
+title: "Fundamentals of Python — Master's level"
 collection: teaching
 type: "Course – Master's degree"
 permalink: /teaching/python-isup/
@@ -8,7 +8,13 @@ date: 2022-01-01
 location: "Paris, France"
 ---
 
+Fundamentals of Python language, from bacics (variables, structures, etc.) to advanced coding (object oriented programming, best practices, packaging, etc.).
+
+Two courses, same content:
+
 **30 hours** · ISUP, parcours Ingénierie Statistique et Data Science · Master's level · Jan 2022 – present
+
+**12 hours** · UFR Ingénierie Mathématique, parcours Ingénierie Mathématique · Bachelor's / Master's level
 
 ## Topics
 

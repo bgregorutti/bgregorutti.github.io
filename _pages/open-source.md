@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Open Source Projects"
 permalink: /open-source/
 author_profile: true
 ---
