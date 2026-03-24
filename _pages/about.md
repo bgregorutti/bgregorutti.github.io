@@ -23,7 +23,7 @@ The projects we develop with my team are part of two France 2030-funded programs
 - ✈️ 9 years in aviation ML — fuel optimisation, airport analytics
 - 🤖 SCAI: 4 active research projects, 6 funded grants
 - 🏫 230+ teaching hours · 300+ students (personal) -- 400+ hours · 700+ students (team, 2023–2026)
-- 📄 5 research publications as co-author · 1 patent
+- 📄 8 research publications as co-author (2 as first author) · 2 patents
 
 ---
 

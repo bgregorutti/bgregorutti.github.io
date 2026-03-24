@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Research output from my time at **Safety Line** (2011–2020), in collaboration with INRIA, LIP6 (Sorbonne), and IFSTTAR. All work is grounded in real flight data and aviation applications.
+Research output from my time at **Safety Line** (2011–2020) and **LumenAI** (2020-2022), in collaboration with INRIA and ENAC. 
 
 {% include base_path %}
 
