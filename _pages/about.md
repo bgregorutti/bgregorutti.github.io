@@ -33,9 +33,9 @@ The projects we develop with my team are part of two France 2030-funded programs
 | Project | Domain | Partners |
 |---|---|---|
 | [Digital Delacroix](/portfolio/delacroix/) | Art history · Computer vision | Centre André-Chastel, Assemblée Nationale |
-| [Cowspiracy](/portfolio/cowspiracy/) | Ecology · Remote sensing | iEES Paris, IRD |
+| [Cowspiracy](/portfolio/cowspiracy/) | Ecology · Computer vision | iEES Paris, IRD |
 | [Annotix](/portfolio/annotix/) | Analytical chemistry · Graph ML | Observatoire Océanologique de Banyuls |
-| [Sorbobot](/portfolio/sorbobot/) | NLP · Knowledge management | SUMMIT (Sorbonne) |
+| [Sorbobot](/portfolio/sorbobot/) | NLP/LLM · Knowledge management | SUMMIT (Sorbonne) |
 
 → [View all projects](/portfolio/)
 

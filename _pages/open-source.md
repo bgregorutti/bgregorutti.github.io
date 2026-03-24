@@ -13,7 +13,7 @@ A selection of personal open source projects spanning AI tooling, NLP, music inf
 ### [mcp-local-agent](https://github.com/bgregorutti/mcp-local-agent)
 **MCP server to connect Claude Code to local LLMs**
 
-An MCP server that delegates code generation tasks from Claude Code to local models (via LM Studio or Ollama), with an iterative feedback loop to maintain quality. Saves 60–90% on API costs by routing simple and medium tasks to a free local model while Claude handles architecture and complex decisions.
+An MCP server that delegates code generation tasks from Claude Code to local models (via LM Studio or Ollama), with an iterative feedback loop to maintain quality. Saves 60–90% on API costs by routing simple and medium tasks to a free local model while Claude handles architecture and complex decisions (to be challenged).
 
 `Python` · `MCP` · `Ollama` · `LM Studio` · `Claude Code`
 
