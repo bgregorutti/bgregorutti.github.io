@@ -102,8 +102,8 @@ Large-scale flight data processing and ML algorithm design for aircraft fuel con
 ---
 
 **PhD Candidate in Statistical Learning** · 2011 – 2015 · Paris
-*With Université Pierre et Marie Curie (CIFRE)*
-Random Forests and variable selection – Analysis of flight data recorders for aviation safety.
+
+Random Forests and variable selection – Analysis of flight data recorders for aviation safety. With Université Pierre et Marie Curie (CIFRE).
 
 **Key Achievement:** Two publications in international journals (variable selection and functional data analysis), one French patent, and one R package.
 

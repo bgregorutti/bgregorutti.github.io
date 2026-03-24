@@ -1,10 +1,9 @@
 ---
 title: "Block sparse linear models for learning structured dynamical systems in aeronautics"
 collection: publications
-date: 2018-01-01
-venue: "Journal / Conference (add details)"
-paperurl: ""
-citation: "Gregorutti, B. et al. (2018). Block sparse linear models for learning structured dynamical systems in aeronautics."
+date: 2017-01-01
+venue: "Preprint"
+paperurl: "https://inria.hal.science/hal-01816400/document"
 ---
 
 Identification of structured dynamical systems from large-scale flight data using block sparse linear modelling. Application to aircraft trajectory analysis and system identification from flight data recorder streams.

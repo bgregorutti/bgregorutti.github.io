@@ -18,7 +18,7 @@ The projects we develop with my team are part of two France 2030-funded programs
 
 ## Highlights
 
-- 🎓 PhD in Statistics, Sorbonne Université (2014)
+- 🎓 PhD in Statistics, Sorbonne Université (2015)
 - 🧑‍🔬 Research engineer & team lead since 2015
 - ✈️ 9 years in aviation ML — fuel optimisation, airport analytics
 - 🤖 SCAI: 4 active research projects, 6 funded grants

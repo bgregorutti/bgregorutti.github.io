@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching has been a consistent thread throughout my career — from university courses in statistics and Python to AI literacy workshops for non-technical audiences.
+Teaching has been a consistent thread throughout my position at SCAI — from courses in statistics and Python to AI literacy workshops for non-technical audiences.
 
 ## Key figures (2023–2026)
 
