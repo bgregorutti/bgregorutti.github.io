@@ -11,5 +11,12 @@ Research output from my time at **Safety Line** (2011–2020), in collaboration 
 
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
 {% for post in sorted_pubs %}
-  {% include archive-single.html %}
+<div style="margin-bottom: 2em;">
+  <strong>{{ post.title }}</strong><br>
+  <em>{{ post.venue }}</em> &mdash; {{ post.date | date: "%Y" }}<br>
+  {{ post.content }}
+  {% if post.paperurl and post.paperurl != "" %}
+  <a href="{{ post.paperurl }}" target="_blank">Download / View</a>
+  {% endif %}
+</div>
 {% endfor %}
