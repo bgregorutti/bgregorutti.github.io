@@ -10,22 +10,22 @@ author_profile: true
 
 I led a team of 4 data scientists and research engineers, building AI and data science solutions for researchers across Sorbonne University's three faculties and its national and international partners.
 
-*Team & Collaborations*
+Team & Collaborations
 - Skills: computer vision, NLP, large language models
 - French lab partners: iEES, LPSM, SUMMIT, AP-HP, IPSL, LIMICS, ISIR, Observatoire Océanologique de Banyuls, IRD, ANSES, Institut Pasteur, INRIA
 - International: Université Laval (Québec), Sorbonne Abu Dhabi, Sémé City (Bénin)
 - Part of two France 2030-funded programs: Sorbonne.AI (education & PhD) and PostGenAI@Paris (national research cluster)
 
-*Selected Projects*
+Selected Projects
 - 🎨 [Digital Delacroix](/portfolio/delacroix/) — Computer vision for art history, with Centre André-Chastel and the Assemblée Nationale
 - 🌍 [Cowspiracy](/portfolio/cowspiracy/) — Animal detection models for soil erosion monitoring in Senegal & the Gobi Desert, with iEES Paris and IRD
 - 🧪 [Annotix](/portfolio/annotix/) — Graph ML and molecular networking to annotate unknown molecules from MS/MS spectra, with Observatoire Océanologique de Banyuls
 - 🤖 [Sorbobot](/portfolio/sorbobot/) — LLM-based expertise mapping across Sorbonne University, with SUMMIT engineering teams
 
-*Grant & Funding Support*
+Grant & Funding Support
 - 15+ responses to competitive calls for projects (ANR, France 2030, etc.) · 6 accepted, each funding a 1–3 year data scientist position
 
-*Internship Supervision*
+Internship Supervision
 - 10 Bachelor's and Master's internships applying AI to chemistry, biology, medicine, and humanities
 
 ---
@@ -34,7 +34,7 @@ I led a team of 4 data scientists and research engineers, building AI and data s
 
 Implemented collaborative ML and data science projects with Sorbonne researchers across NLP, computer vision, and medical applications. Contributed to the SCAI Education platform and delivered courses for Bachelor's students at UFR de Mathématiques.
 
-*Training & Education (2023–2026)*
+Training & Education (2023–2026)
 - Personal: 230+ hours · 300+ students · 10+ courses
 - Team total: 400+ hours · 700+ students · 40+ courses
 - Audiences: medicine, humanities, physics/maths, innovation management, continuing education
@@ -69,9 +69,9 @@ Supported companies on their ML projects: defining R&D roadmaps, leading data sc
 
 LumenAI is a data science consultancy and R&D company. Led the full technical team of 6 people (data scientists, ML researchers, data engineers), fully remote across Paris, Rennes, and Pau.
 
-- *R&D — Cybersecurity:* Real-time network intrusion detection using graph clustering, funded by the DGA Cyberdefence Factory program (Rennes). Delivered a working prototype.
-- *Consulting — TotalEnergies (Pau):* Built a large-scale document indexing and search system over a very large internal text corpus, using NLP and online clustering. Signal processing and smoothing applied to geoscience sensor data using computer vision models.
-- *Research:* Co-supervised a PhD student · co-author of 1 research article.
+- R&D — Cybersecurity: Real-time network intrusion detection using graph clustering, funded by the DGA Cyberdefence Factory program (Rennes). Delivered a working prototype.
+- Consulting — TotalEnergies (Pau): Built a large-scale document indexing and search system over a very large internal text corpus, using NLP and online clustering. Signal processing and smoothing applied to geoscience sensor data using computer vision models.
+- Research: Co-supervised a PhD student · co-author of 1 research article.
 
 ---
 
@@ -88,7 +88,7 @@ Safety Line provides data-driven solutions for aviation efficiency and safety to
 - Co-supervised a PhD student with INRIA on dynamical system identification and optimal control (2015–2018)
 - Co-author of 4 peer-reviewed research articles and 2 patents
 
-**Key Achievement:** Oversaw the design and delivery of a fully automated ML pipeline — from raw flight data decoding to Dockerized production deployment.
+*Key Achievement: Oversaw the design and delivery of a fully automated ML pipeline — from raw flight data decoding to Dockerized production deployment.*
 
 ---
 
@@ -96,7 +96,7 @@ Safety Line provides data-driven solutions for aviation efficiency and safety to
 
 Large-scale flight data processing and ML algorithm design for aircraft fuel consumption reduction.
 
-**Key Achievement:** Designed and implemented ML algorithms and Python APIs for climb phase fuel optimization — delivering up to 10% fuel savings per flight.
+*Key Achievement: Designed and implemented ML algorithms and Python APIs for climb phase fuel optimization — delivering up to 10% fuel savings per flight.*
 
 ---
 
@@ -104,7 +104,7 @@ Large-scale flight data processing and ML algorithm design for aircraft fuel con
 
 Random Forests and variable selection – Analysis of flight data recorders for aviation safety. With Université Pierre et Marie Curie (CIFRE).
 
-**Key Achievement:** Two publications in international journals (variable selection and functional data analysis), one French patent, and one R package.
+*Key Achievement: Two publications in international journals (variable selection and functional data analysis), one French patent, and one R package.*
 
 ---
 
