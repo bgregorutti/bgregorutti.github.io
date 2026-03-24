@@ -87,7 +87,7 @@ Safety Line provides data-driven solutions for aviation efficiency and safety to
 - Academic partners: INRIA, LIP6 (Sorbonne), IFSTTAR
 - Industrial partners: Aéroports de Paris (ADP), Thales (European research project)
 - Co-supervised a PhD student with INRIA on dynamical system identification and optimal control (2015–2018)
-- Co-author of 4 peer-reviewed research articles and 1 patent
+- Co-author of 4 peer-reviewed research articles and 2 patents
 
 **Key Achievement:** Oversaw the design and delivery of a fully automated ML pipeline — from raw flight data decoding to Dockerized production deployment.
 
@@ -113,8 +113,8 @@ Random Forests and variable selection – Analysis of flight data recorders for 
 
 → [Full list of publications](/publications/)
 
-- 5 peer-reviewed research articles
-- 1 patent (Safety Line, 2019)
+- 8 peer-reviewed research articles
+- 2 patents
 
 ---
 

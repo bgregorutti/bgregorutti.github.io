@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Selected Research Projects at SCAI"
+title: "Selected Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
-These are the main data science and AI projects I led or contributed to at **SCAI – Sorbonne Cluster for Artificial Intelligence** (2023–present). Each project is a collaboration between SCAI's data science team and one or more research labs from Sorbonne University and its partners.
+These are the main data science and AI projects I led or contributed to at **SCAI** (2023–present), **LumenAI** and **Safety line**. Each project is a collaboration between SCAI's data science team and one or more research labs from Sorbonne University and its partners.
 
 {% include base_path %}
 

@@ -40,10 +40,6 @@ The projects we develop with my team are part of two France 2030-funded programs
 
 ---
 
-## International Collaborations
-
-🇨🇦 Université Laval (Québec) &nbsp;·&nbsp; 🇦🇪 Sorbonne Abu Dhabi &nbsp;·&nbsp; 🇧🇯 Sémé City (Bénin)
-
 ## French Research Lab Partners
 
 iEES &nbsp;·&nbsp; LPSM &nbsp;·&nbsp; SUMMIT &nbsp;·&nbsp; AP-HP &nbsp;·&nbsp; IPSL &nbsp;·&nbsp; LIMICS &nbsp;·&nbsp; ISIR &nbsp;·&nbsp; Observatoire Océanologique de Banyuls &nbsp;·&nbsp; IRD &nbsp;·&nbsp; ANSES &nbsp;·&nbsp; Institut Pasteur &nbsp;·&nbsp; INRIA
