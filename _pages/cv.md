@@ -52,8 +52,6 @@ Selected courses:
 - UFR Ingénierie Mathématique (12h): Python fundamentals, OOP, data visualization
 - Medicine School: Introduction to Python coding and Machine Learning for data analysis, course and workshop
 
-200+ students over 4 years.
-
 ---
 
 ## Freelance
