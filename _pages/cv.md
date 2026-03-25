@@ -45,8 +45,9 @@ Training & Education (2023–2026)
 
 **Lecturer in Python and Machine Learning** · Dec 2022 – 2026 · Paris
 
-Contribute to the SCAI Education platform: Python basics and Python for data analysis.
+Contributed to the Sorbonne.AI education program for Bachelor, Master and Continuing education.
 
+Selected courses:
 - ISUP – Ingénierie Statistique et Data Science (30h): Python fundamentals, OOP, packaging and clean code, scientific computing and ML
 - UFR Ingénierie Mathématique (12h): Python fundamentals, OOP, data visualization
 - Medicine School: Introduction to Python coding and Machine Learning for data analysis, course and workshop
