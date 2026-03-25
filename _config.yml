@@ -1,46 +1,154 @@
-title: "Baptiste Gregorutti"
-subtitle: "Research Engineer · Head of Data Science · AI & ML"
-description: "Portfolio of Baptiste Gregorutti — data scientist, research engineer, and team lead working at the intersection of academic research and applied AI."
-url: "https://bgregorutti.github.io"
-baseurl: ""
+# Welcome to Jekyll!
+# Site Settings
+locale                   : "en-US"
+title                    : "Baptiste Gregorutti"
+title_separator          : "-"
+name                     : &name "Baptiste Gregorutti"
+description              : &description "Research Engineer & Head of Data Science — AI, Machine Learning, Computer Vision, LLM"
+url                      : https://bgregorutti.github.io
+baseurl                  : ""
+repository               : "bgregorutti/bgregorutti.github.io"
 
+# Author
 author:
-  name: "Baptiste Gregorutti"
-  bio: "Head of Data Science at SCAI – Sorbonne Center for AI. Research engineer, educator, and team lead working across computer vision, NLP, and ML for science."
-  location: "Paris, France"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/baptiste-gregorutti-b3a27941"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bgregorutti"
+  name             : "Baptiste Gregorutti"
+  avatar           : "/profile.jpeg"
+  bio              : "Head of Data Science. Research engineer, educator, and team lead. Machine Learning, Computer Vision, LLM"
+  location         : "Paris & Cholet, France"
+  employer         : "Coming soon"
+  linkedin         : "baptiste-gregorutti-b3a27941"
+  github           : "bgregorutti"
 
-remote_theme: pages-themes/cayman@v0.2.0
+# Site Settings
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+read_more                : "disabled"
+talkmap_link             : false
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-include-cache
-  - jekyll-remote-theme
+# Comments
+comments:
+  provider               : false
 
+# SEO
+google-site-verification :
+bing-site-verification   :
+
+# Analytics
+analytics:
+  provider               : false
+
+# Reading Files
 include:
+  - .htaccess
   - _pages
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs
+  - /test
 
+keep_files:
+  - .git
+  - .svn
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
 defaults:
   - scope:
       path: ""
-      type: projects
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: false
+      comments: false
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
   - scope:
       path: ""
       type: pages
@@ -48,18 +156,32 @@ defaults:
       layout: single
       author_profile: true
 
-navigation:
-  main:
-    - title: "Projects"
-      url: /projects/
-    - title: "Safety Line"
-      url: /safety-line/
-    - title: "LumenAI"
-      url: /lumenai/
-    - title: "Publications"
-      url: /publications/
-    - title: "About"
-      url: /about/
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
+# Outputting
+permalink: /:categories/:title/
 timezone: Europe/Paris
-lang: en
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

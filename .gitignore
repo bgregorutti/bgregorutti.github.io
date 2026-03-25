@@ -1,1 +1,6 @@
-HOWTO.md
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/
+.DS_Store

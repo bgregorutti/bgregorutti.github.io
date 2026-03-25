@@ -1,46 +1,46 @@
 ---
-layout: single
-title: "About"
-permalink: /about/
+permalink: /
+excerpt: "Research Engineer & Head of Data Science"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-## Baptiste Gregorutti
+I am a **Head of Data Science** at [comming soon].
 
-I am a **research engineer and Head of Data Science** at [SCAI – Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr), where I lead a team of 4 data scientists building AI solutions for researchers across Sorbonne University's three faculties and its partners.
+Before, I was a research engineer and **Head of Data Science** at [SCAI – Sorbonne Cluster for Artificial Intelligence](https://scai.sorbonne-universite.fr), where I led a team of 4 data scientists building AI and ML solutions for researchers across Sorbonne University's three faculties and its partners.
 
-My work is at the intersection of **applied machine learning** and **scientific research** — I work with biologists, chemists, ecologists, art historians, and clinicians to translate their domain problems into tractable ML tasks, and to deliver tools that accelerate their research.
+My work sits at the intersection of **applied machine learning** and **scientific research** — working with biologists, chemists, ecologists, art historians, and clinicians to translate real domain problems into tractable ML tasks.
 
----
-
-## Background
-
-I hold a **PhD in Statistics** from Université Pierre et Marie Curie (Paris VI, 2014), obtained in collaboration with Safety Line, a French aviation data company where I subsequently spent 9 years — first as an ML scientist, then as Head of Data Science leading a team of 5.
-
-Before joining SCAI, I was **CTO and Head of Data at LumenAI** (2020–2022), leading a distributed team of 6 across consulting projects in NLP and cybersecurity R&D.
+The projects we develop with my team are part of two France 2030-funded programs: [Sorbonne.AI](https://sorbonne.ai) and [PostGenAI@Paris](https://sorbonne.ai/projects/postgenai-paris).
 
 ---
 
-## Skills & Interests
+## Highlights
 
-**Technical**: Computer vision · NLP · LLMs & RAG · Graph ML · Signal processing · Statistical learning · Functional data analysis · MLOps / Docker
-
-**Scientific domains**: Aviation · Analytical chemistry / metabolomics · Marine ecology · Digital humanities · Medicine · Cybersecurity
-
-**Teaching**: Python · Data science · Machine learning · AI literacy for non-technical audiences
+- 🎓 PhD in Statistics, Sorbonne Université (2015)
+- 🧑‍🔬 Research engineer & team lead since 2015
+- ✈️ 9 years in aviation ML — fuel optimisation, airport analytics
+- 🤖 SCAI: 4 active research projects, 6 funded grants
+- 🏫 230+ teaching hours · 300+ students (personal) -- 400+ hours · 700+ students (team, 2023–2026)
+- 📄 8 research publications as co-author (2 as first author) · 2 patents
 
 ---
 
-## Education
+## Selected Projects
 
-| Degree | Institution | Year |
+| Project | Domain | Partners |
 |---|---|---|
-| PhD, Statistics | Université Pierre et Marie Curie (Paris VI) | 2011–2014 |
-| Master's, Statistics | Université Pierre et Marie Curie (Paris VI) | 2010–2011 |
+| [Digital Delacroix](/portfolio/delacroix/) | Art history · Computer vision | Centre André-Chastel, Assemblée Nationale |
+| [Cowspiracy](/portfolio/cowspiracy/) | Ecology · Computer vision | iEES Paris, IRD |
+| [Annotix](/portfolio/annotix/) | Analytical chemistry · Graph ML | Observatoire Océanologique de Banyuls |
+| [Sorbobot](/portfolio/sorbobot/) | NLP/LLM · Knowledge management | SUMMIT (Sorbonne) |
+
+→ [View all projects](/portfolio/)
 
 ---
 
-## Contact
+## French Research Lab Partners
 
-📧 [baptiste.gregorutti@gmail.com](mailto:baptiste.gregorutti@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/baptiste-gregorutti-b3a27941)
+iEES &nbsp;·&nbsp; LPSM &nbsp;·&nbsp; SUMMIT &nbsp;·&nbsp; AP-HP &nbsp;·&nbsp; IPSL &nbsp;·&nbsp; LIMICS &nbsp;·&nbsp; ISIR &nbsp;·&nbsp; Observatoire Océanologique de Banyuls &nbsp;·&nbsp; IRD &nbsp;·&nbsp; ANSES &nbsp;·&nbsp; Institut Pasteur &nbsp;·&nbsp; INRIA

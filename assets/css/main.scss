@@ -1,56 +1,43 @@
 ---
 ---
 
-// Custom overrides for Minimal Mistakes theme
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-// Accent color — a clean blue-teal to feel scientific/academic
-$primary-color: #2a6496;
-$link-color: #2a6496;
+@import
+    "vendor/breakpoint/breakpoint",
 
-// Slightly wider content area
-.page__content {
-  max-width: 900px;
-}
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-// Project cards on index page
-.project-card {
-  border-left: 3px solid $primary-color;
-  padding-left: 1rem;
-  margin-bottom: 2rem;
-}
+    "include/mixins",
+    "vendor/susy/susy",
 
-// Status badges
-.status-badge {
-  display: inline-block;
-  padding: 0.15rem 0.5rem;
-  border-radius: 3px;
-  font-size: 0.8em;
-  font-weight: bold;
-  
-  &.in-progress {
-    background: #fff3cd;
-    color: #856404;
-  }
-  
-  &.completed {
-    background: #d4edda;
-    color: #155724;
-  }
-}
+    "layout/reset",
+    "layout/base",
 
-// Partner tables
-table {
-  width: 100%;
-  margin-bottom: 1.5rem;
-  
-  th {
-    background: #f8f9fa;
-  }
-}
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-// Header overlay text
-.page__hero--overlay {
-  .page__title {
-    font-size: 2em;
-  }
-}
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;

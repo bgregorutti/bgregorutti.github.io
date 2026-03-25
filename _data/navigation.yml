@@ -1,13 +1,11 @@
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Safety Line"
-    url: /safety-line/
-  - title: "LumenAI"
-    url: /lumenai/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Teaching"
     url: /teaching/
   - title: "Publications"
     url: /publications/
-  - title: "About"
-    url: /about/
+  - title: "Open Source projects"
+    url: /open-source/
+  - title: "CV"
+    url: /cv/
