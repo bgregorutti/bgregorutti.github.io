@@ -43,7 +43,7 @@ Training & Education (2023–2026)
 
 ---
 
-**Lecturer in Python and Machine Learning** · Dec 2022 – 2026 · Paris
+**Lecturer in Python and Machine Learning** · Dec 2022 – Apr 2023 · Paris
 
 Contributed to the Sorbonne.AI education program for Bachelor, Master and Continuing education.
 
